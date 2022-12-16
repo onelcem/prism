@@ -128,4 +128,3 @@ To run docker container use following command:
 The `8000` port of the container is mapped to the `8001` port of the host. Use `localhost:8001` to access the app.
 
 `http://localhost:8001/test`. This test url runs the same command both on your local and the live Prism server, and provides comparisons between local and live prism server image resizing operations. 
-
